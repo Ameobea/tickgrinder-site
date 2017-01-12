@@ -1,0 +1,31 @@
+/* TEAM */
+  Site owner: Casey Primozic (Also known as Ameo or AmeoBea)
+  Contact: me@ameo.link
+  Twitter: @ameobea10
+  From: Illinois, USA
+  Currently Lives: Indiana, USA
+
+  TickGrinder project creator + maintainer: Casey Primozic
+
+/* THANKS */
+  Only friend: MinishGuy / Alex J
+    Github: @dalexj
+    From: USA
+    Professional Rust Hater
+
+  Inspiration: Alex Crichton
+    Github: @alexcrichton
+    Incredible programmer
+
+  Inspiration for the Site: https://rocket.rs/
+    And for the overall great project
+    Just pretend this site is as pretty as that one ok?
+
+  WordGrinder (https://github.com/davidgiven/wordgrinder):
+    Inspiration for the name
+
+/* SITE */
+  Last Update: 2016/01
+  Language: English
+  Doctype: HTML5
+  IDE: Sublime Text 3 (Theme: Monocyanide Contrasted Semi)
